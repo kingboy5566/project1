@@ -3,14 +3,16 @@ function Input(props){
         <input type="text"
         style={{
             borderRadius:"4px",
-            width: "97%",
+            width: "95%",
             height :"36px",
             overflow : "hidden",
             backgroundColor : "lightgray",
             fontSize : "30px",
             paddingLeft : "2px",
              paddingRight : "2px",
-             position : "relative"
+             position : "relative",
+             margin : "5px 3px",
+             paddingTop : "2px"
         }} value={props.value} />
       
 

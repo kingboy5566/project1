@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
  
 
-
+{/* 
     <Gaza />
     <Card
    
@@ -43,7 +43,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     />
     <Card
     text = "Fully Typed APIs"
-    p ="Flexible programmatic APIs with full TypeScript typing." />
+    p ="Flexible programmatic APIs with full TypeScript typing." /> */}
 
 <Calculator/>
 
