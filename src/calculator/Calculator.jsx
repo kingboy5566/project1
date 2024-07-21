@@ -38,7 +38,8 @@ function AC(){
 <Input value={number}/> <br />
 <div style={{
     position : "relative",
-    marginTop :"10px"
+    marginTop :"10px",
+    backgroundColor :'black'
 }}>
 <Button text="AC"action = {AC} /><Button text="DEL"action = {del}/> <Button text="%" /> <Button text="/" action = {handle}/> <br />
 <Button text="7" action = {handle}/> <Button text="8"  action = {handle}/> <Button text="9"  action = {handle}/> <Button text="*" action = {handle}/><br />

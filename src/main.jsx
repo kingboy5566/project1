@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
  
 
-{/* 
+
     <Gaza />
     <Card
    
@@ -34,17 +34,18 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 <Card
     text = "Optimized Build"
     p = "Pre-configured Rollup build with multi-page and library mode support."
-    
+   
     />
-    <Card
+    
+<Card
     text = "Universal Plugins"
     p = "Rollup-superset plugin interface shared between dev and build."
-    
+   
     />
-    <Card
+<Card
     text = "Fully Typed APIs"
-    p ="Flexible programmatic APIs with full TypeScript typing." /> */}
-
+    p ="Flexible programmatic APIs with full TypeScript typing." /> <br />
+     
 <Calculator/>
 
   </React.StrictMode>,

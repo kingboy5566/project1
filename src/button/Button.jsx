@@ -15,7 +15,7 @@ function Button(props){
     onClick={props.action}>
          {props.action }
          {props.text}
-         {props.width}
+         
     
   </button>
 

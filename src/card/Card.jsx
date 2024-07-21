@@ -10,16 +10,14 @@ return(
     borderRadius:"4px",
     backgroundColor:"#e2e2e3",
     coloe:"#dddde3",
-   
-
-   
-  }}>
+    float :'right'}}>
    
 
  
 
     {props.text}<br/>
     {props.p}
+    
   </div>
 )
 }
